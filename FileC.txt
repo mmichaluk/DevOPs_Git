@@ -1,3 +1,5 @@
 This is FileC - version 1
 
 Integrated with Azure Boards - Task 6
+
+Fixed AB#6
